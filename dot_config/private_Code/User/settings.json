@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "*.go": "go"
+    },
+    "[go]": {
+        "editor.formatOnSaveMode": "file",
+        "editor.insertSpaces": true,
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.organizeImports": true
+        }
+    },
+    "go.formatTool": "gofumports",
+    "gopls": {
+        "formatting.gofumpt": true,
+    },
+    "workbench.colorTheme": "Github Light Theme - Gray",
+    "go.gopath": "/home/matt/.go"
+}

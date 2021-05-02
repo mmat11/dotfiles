@@ -1,0 +1,7 @@
+[user]
+	name = Mattia Meleleo
+	email = melmat@tuta.io
+[core]
+	editor = /usr/bin/code
+[init]
+    defaultBranch = main
